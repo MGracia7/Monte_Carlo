@@ -9,7 +9,7 @@ Universidad Tecnica Federico Santa Maria
 This notebook performs a Monte Carlo simulation to model stellar evolution across a range of initial stellar masses and ages. The simulation calculates main sequence lifetimes and eventual remnant types (e.g., White Dwarfs, Neutron Stars, or Black Holes) based on a probabilistic initial mass function (IMF) and initial stellar conditions. The notebook also generates various visualizations, such as histograms and scatter plots, to represent the final distributions of star remnants and properties.
 
 ### Files
-- **README.txt**: This documentation file.
+- **README.md**: This documentation file.
 - **simulation_*_stars.csv**: Output CSV files storing individual star properties for each specified simulation count.
 - **initial_final_mass_scatter_all.png**: Plot showing initial vs. final mass distributions for each remnant type across all simulations.
 - **age_histogram_all.png**: Histogram showing age distributions for various remnant types across all simulations.
